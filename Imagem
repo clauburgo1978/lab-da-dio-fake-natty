@@ -1,16 +1,22 @@
 # É real ou fake?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esta imagem mostra a capacidade criativa das IAs o que torna cada dia mais difícil sabermos o que é real e o que foi criado por uma Inteligência Artificial
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Microsoft Copilot
+AI Human Generator
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei Copilot para pesquisar uma ferramenta grátis de IA que criasse imagens que se parecessem fotos de humanos reais, a partir de características fornecidas por mim.
+Com base na indicação do Copilot, acessei a AI Human Generator, que além de gratuita não exige cadastro nem log in.
+Forneci algumas características e a ferramenta me retornou 6 boas opções de fotos, escolhi uma para este projeto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A "foto" criada pela ferramenta traduziu muito bem ao prompt fornecido: 
+"brasilian human, about 40 years old, blond curly hair, blue eyes, rounded face, using glasses e ear rings, only her face, working in her laptop at her office"
+
+[CLIQUE AQUI E CONFIRA A IMAGEM]()
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+É incrível como a "pessoa" da imagem criada parece real.
